@@ -34,3 +34,5 @@ A baseline **Multiple Linear Regression** model was evaluated against an ensembl
 * Feature Scaling (Standardization)
 * Model Building & Training
 * Model Evaluation
+<img width="969" height="532" alt="WhatsApp Image 2026-09-24 at 5 08 02 PM" src="https://github.com/user-attachments/assets/b4ec0164-f3a0-445d-81b2-97bbca32fce0" />
+<img width="985" height="600" alt="WhatsApp Image 2026-09-24 at 5 07 21 PM" src="https://github.com/user-attachments/assets/419bcd11-27b6-4180-baf0-d89fe4913794" />
